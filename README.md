@@ -1,3 +1,3 @@
-# Welcome to your final test. Now it's time to show what you are really being called to do.
+# Now it's time to show your knowledge in practice and demonstrate what you are really being asked to do.
 
 Are you a well rounded PHP Developer?
