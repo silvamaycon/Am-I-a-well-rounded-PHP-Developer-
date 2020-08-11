@@ -1,3 +1,9 @@
-# Now it's time to show your knowledge in practice and demonstrate what you are really being asked to do.
+# Agora é hora de mostrar seus conhecimentos na prática e demonstrar o que realmente está sendo solicitado a fazer.
 
-Are you a well rounded PHP Developer?
+O objetivo desta tarefa é testar seus conhecimentos sobre os fundamentos do desenvolvimento e os processos envolvidos.
+
+Os tópicos que analisaremos são:
+* O design da solução fornecida
+* A qualidade do código
+* O teste de unidade
+* Aderência aos requisitos
